@@ -1,6 +1,7 @@
 # 🛡️ Network Threat Intelligence Dashboard (Next-Gen SOC & Microservices Suite)
 **Drive Link: [Network Threat Intelligence Dashboard](https://drive.google.com/drive/folders/1gvjLy8a5_XjYUSH3ViAJ6B4dG4DJuTq6?usp=sharing)**
-A high-class, military-grade Security Operations Center (SOC) web application powered by **Spring Boot Microservices Architecture** and a futuristic **React / Canvas** tactical interface. Security analysts monitor live cyber attacks, simulate volumetric botnet campaigns, inspect raw packet hex payloads with Shannon entropy algorithms, track adversary TTPs on the MITRE ATT&CK Matrix, and execute automated SOAR containment playbooks.
+
+- A high-class, military-grade Security Operations Center (SOC) web application powered by **Spring Boot Microservices Architecture** and a futuristic **React / Canvas** tactical interface. Security analysts monitor live cyber attacks, simulate volumetric botnet campaigns, inspect raw packet hex payloads with Shannon entropy algorithms, track adversary TTPs on the MITRE ATT&CK Matrix, and execute automated SOAR containment playbooks.
 
 ---
 
